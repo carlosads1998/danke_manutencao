@@ -3,6 +3,8 @@
     margin: 0;
     list-style: none;
     text-decoration: none;
+    font-family: 'Manrope', sans-serif;
+
 }
 
 body {
@@ -62,7 +64,7 @@ body {
     position: relative;
     margin-left: 25rem;
     width: 20rem;
-    margin-top: -9rem;
+    margin-top: -10rem;
 }
 
 .rua {
@@ -75,7 +77,7 @@ body {
     position: relative;
     margin-left: 25rem;
     width: 26rem;
-    margin-top: -3rem;
+    margin-top: -4rem;
 }
 
 .danke {
@@ -91,7 +93,7 @@ body {
     flex-direction: column;
     justify-content: center;
     flex-shrink: 0;
-    margin-top: 5rem;
+    margin-top: 3.5rem;
 }
 
 .logo {
