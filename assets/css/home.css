@@ -16,11 +16,11 @@ body {
 }
 
 .first_section {
-    margin-bottom: 24rem;
+    margin-bottom: 29rem;
     width: 895px;
     height: 165px;
     flex-shrink: 0;
-    margin-left: 113rem;
+    margin-left: 119rem;
 }
 
 .texto {
@@ -39,7 +39,7 @@ body {
     height: 154px;
     flex-direction: column;
     flex-shrink: 0;
-    margin-top: 14rem;
+    margin-top: 18rem;
     margin-right: 100rem;
     right: 53rem;
 }
@@ -107,7 +107,7 @@ body {
     width: 1540px;
     height: 50px;
     margin-left: -80rem;
-    margin-top: 3rem;
+    margin-top: 8rem;
 }
 
 .conteudo {
