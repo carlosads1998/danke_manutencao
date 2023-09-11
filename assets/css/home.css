@@ -20,7 +20,7 @@ body {
     width: 1035px;
     height: 165px;
     flex-shrink: 0;
-    margin-left: 105rem;
+    margin-left: 116rem;
 }
 
 .texto {
@@ -40,7 +40,7 @@ body {
     flex-direction: column;
     flex-shrink: 0;
     margin-top: 18rem;
-    margin-right: 100rem;
+    margin-right: 111rem;
     right: 59rem;
 }
 
@@ -51,6 +51,7 @@ body {
     font-style: normal;
     font-weight: 800;
     line-height: normal;
+    margin-left: -90px;
 }
 
 
@@ -94,11 +95,12 @@ body {
     justify-content: center;
     flex-shrink: 0;
     margin-top:8rem;
+    margin-left: -88px;
 }
 
 .logo {
     position: relative;
-    margin-left: -27rem;
+    margin-left: -39.7rem;
     margin-top:7.8rem;
 }
 
@@ -107,7 +109,7 @@ body {
     width: 1540px;
     height: 50px;
     margin-left: -80rem;
-    margin-top: 5rem;
+    margin-top:2.5rem;
 }
 
 .conteudo {
