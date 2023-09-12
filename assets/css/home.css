@@ -16,7 +16,7 @@ body {
 }
 
 .first_section {
-    margin-bottom: 35rem;
+    margin-bottom: 30rem;
     width: 1035px;
     height: 165px;
     flex-shrink: 0;
@@ -94,22 +94,22 @@ body {
     flex-direction: column;
     justify-content: center;
     flex-shrink: 0;
-    margin-top:8rem;
-    margin-left: -88px;
+    margin-top: 8rem;
+    margin-left: -90px;
 }
 
 .logo {
     position: relative;
     margin-left: -39.7rem;
-    margin-top:7.8rem;
+    margin-top: 7.8rem;
 }
 
 .back_ {
     background: rgb(253, 248, 0);
-    width: 1540px;
+    width: 1560px;
     height: 50px;
     margin-left: -80rem;
-    margin-top:2.5rem;
+    margin-top: 2.5rem;
 }
 
 .conteudo {
@@ -156,13 +156,15 @@ body {
     }
 
     .first_section {
+        margin-right: -28rem;
+        margin-top: 7rem;
         width: 280px;
-        margin-right: -2rem;
-        margin-top: -6rem;
+        height: 135px;
+        flex-shrink: 0;
     }
 
     .texto {
-        font-size: 2px;
+        font-size: 20px;
         color: #000;
         font-family: Manrope;
         font-size: 20px;
@@ -171,50 +173,53 @@ body {
         line-height: normal;
     }
 
-    .botao-interativo{
-        margin-top: 18rem;
-        margin-left: 0.5rem;
+    .botao-interativo {
+        margin-top: -3rem;
+        margin-left: 22rem;
 
     }
 
     .botao-interativo a {
         font-size: 24px;
-        margin-left: 36rem;
+        font-weight: 800;
+        margin-left: 47.5rem;
     }
 
-    .contact{
-        font-size: 18px;
-        margin-left: 9rem;
-        margin-top: -5rem;
+    .contact {
+        font-size: 14px;
+        margin-left: 0rem;
+        margin-top: 1rem;
     }
 
-    .rua{
-        font-size: 18px;
-        margin-left: 9rem;
-        margin-top: -1.5rem;
+    .rua {
+        font-size: 14px;
+        margin-left: 0rem;
+        margin-top: 0.5rem;
     }
 
-    .danke{
+    .danke {
         position: relative;
         font-size: 14px;
-        margin-left: 35rem;
-        margin-top: 7.5rem;
+        margin-left: 47.5rem;
+        margin-top: 6.5rem;
+        font-weight: 800;
     }
 
-    .logo{
+    .logo {
         width: 82px;
         height: 25px;
         flex-shrink: 0;
         margin-left: -4rem;
     }
 
-    .back_{
-        margin-top: 10rem;
-        height: 30px;
+    .back_ {
+        margin-top: -38em;
+        height: 45px;
+        width: 120%;
     }
-    
-    .conteudo1{
-        font-size: 16px;
-        margin-top: 0.3rem;
+
+    .conteudo1 {
+        font-size: 18px;
+        margin-top: 0.6rem;
     }
 }
